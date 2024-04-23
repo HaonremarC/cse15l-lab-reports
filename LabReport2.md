@@ -18,6 +18,7 @@ PART 1
      - For `chatLog`: Since this was our first request since starting the server, this field would be empty as nothing had been sent for it to store.  After processing the request in the screenshot, the `chatLog` field will not contain "jpolitz: Hello\n".
 
 - Using `/add-message?s=How are you&user=yash`
+  ![Image](ChatServer2.png)
 
   1. Which methods in your code are called?
      - `handleRequest(URI url)`: Like before, this method will be called as the server is sreceiving a HTTP request.
