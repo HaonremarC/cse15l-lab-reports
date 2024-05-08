@@ -20,4 +20,8 @@ PART 1
 3. Symptom screenshot:
    ![Image](failAndSuccess.png)
 
-4. 
+4. Buggy code:
+   ![Image](buggycode.png)
+
+   Fixed code:
+   
