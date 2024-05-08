@@ -17,4 +17,7 @@ PART 1
     assertArrayEquals(expected, arr);
   }`
 
-3. 
+3. Symptom screenshot:
+   ![Image](failAndSuccess.png)
+
+4. 
