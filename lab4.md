@@ -50,7 +50,7 @@ c) Use the `ssh` command to log into the ieng6 account.
       and exit the vim for this file, we can use the command `:wq`.
 
 
-   Rerunning tests to ensure they pass
+5. Rerunning tests to ensure they pass
 
    a) ![Image](successfultest.png)
 
@@ -59,7 +59,7 @@ c) Use the `ssh` command to log into the ieng6 account.
    c) This command will rerun our test and output that all of them pass now that we have changed our ListExamples.java file.
 
 
-   Commiting and pushing our changes
+6. Commiting and pushing our changes
 
    a) ![Image](commitingchanges.png)
 
