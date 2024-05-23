@@ -1,4 +1,5 @@
 1. Logging in to ieng6
+
 a) ![Image](sshieng6.png)
 
 b) ssh<space>njcramer@ieng6.ucsd.edu<enter>
